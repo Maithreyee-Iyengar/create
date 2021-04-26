@@ -1,0 +1,68 @@
+body{
+  margin: 40px;
+  text-align: center;
+  font-family: arial;
+}
+
+.top-container{
+text-align: right;
+margin-right: 20px;
+margin-top: 20px;
+
+}
+.middle-container{
+position: relative;
+text-align: center;
+top: 100px;
+
+}
+.primary{
+  position:relative;
+  text-align: center;
+
+}
+
+.bottom-container{
+position: relative;
+padding-top: 10px;
+top: 90px;
+
+}
+
+
+.bttn1{
+  position: relative;
+  display: inline-block;
+  padding: 6px 12px;
+
+    background-color: #2978b5;
+}
+.bttn2{
+  position: relative;
+  display:
+ inline-block;
+  padding: 6px 12px;
+  background-color: #2978b5;
+}
+
+
+.input-group{
+  padding-top: 50px;
+  position: relative;
+  text-align: center;
+  margin: 5px 5px;
+
+}
+
+
+.app{
+  position: relative;
+  top:10px;
+  width: 10px;
+  padding: 10px;
+}
+
+
+.googlepic{
+  width: 400px;
+}
